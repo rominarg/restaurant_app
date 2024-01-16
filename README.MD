@@ -1,3 +1,5 @@
+![Android](https://img.shields.io/badge/Android-Studio-brightgreen)
+![Java](https://img.shields.io/badge/Java-8%2B-red)
 
 # App Restaurante en Android Studio y Java
 
@@ -18,13 +20,12 @@ Desarrollo de un aplicativo móvil en Android cuya finalidad es mostrar informac
 - IDE de desarrollo Android Studio.
 
 
-
 ## Componentes y Widgets que se utilizaron:
 
 - LinearLayout
 - TextView
 - ImageView
--Button
+- Button
 - GridLayout
 - ListView
 - GridView
