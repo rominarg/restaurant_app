@@ -5,7 +5,7 @@
 
 ## Objetivo
 
-Desarrollo de un aplicativo móvil en Android cuya finalidad es mostrar información de un restaurante a los usuarios de la App como:
+Desarrollo de un aplicación móvil en Android cuya finalidad es mostrar información de un restaurante a los usuarios de la App como:
 
 - Platos
 - Bebidas
